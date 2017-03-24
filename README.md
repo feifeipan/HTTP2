@@ -7,7 +7,7 @@
 
 ### HTTP/2最佳实践
 
-[HTTP/2请求限制](https://github.com/feifeipan/HTTP2/http-2 request limit.md)
+[HTTP/2请求限制](http-2%20request%20limit.md)
 
 [HTTP/2 Server Push](https://github.com/feifeipan/HTTP2)
 
